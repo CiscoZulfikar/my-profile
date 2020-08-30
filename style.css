@@ -33,7 +33,7 @@ section{
 	font-family:'Montserrat';
 	font-weight:bold;
 	color:#f6f5f5;
-	font-size:24px;
+	font-size:64px;
 }
 
 .text-container p:nth-child(2){
@@ -42,6 +42,7 @@ section{
 	letter-spacing:1px;
 	color:#1a1a1a;
 	font-size:64px;
+	line-height:32px;
 }
 
 .text-container p:nth-child(3){
@@ -52,14 +53,14 @@ section{
 }
  
 .text-container p{
-	margin:45px 0px 25px;
+	margin:48px 0px 24px;
 	line-height:0px;
 }
 
 .text-container{
 	position: absolute;
 	left:13%;
-	top:42%;
+	top:33%;
 }
 
 .about-container{
