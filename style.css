@@ -208,5 +208,5 @@ footer{
 	position: absolute;
 	left:50%;
 	top:240px;
-	transform: translateX(-50%);
+	transform: translateX(-25%);
 }
